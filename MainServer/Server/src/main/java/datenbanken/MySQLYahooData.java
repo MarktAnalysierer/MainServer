@@ -17,6 +17,7 @@ public class MySQLYahooData {
 	public MySQLYahooData(String[] dbconfig)
 	{
 		this.dbconfig = dbconfig;
+		//test
 	}
 	
 	
