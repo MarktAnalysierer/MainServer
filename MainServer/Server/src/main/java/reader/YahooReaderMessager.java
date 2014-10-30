@@ -34,7 +34,7 @@ public class YahooReaderMessager {
 		System.out.println("\n Ab welchem Datum sollen keine weiteren Daten geladen werden? (Dieses Feld darf freigelassen werden.) \n");
 		configString += scanner.next();
 		
-		System.out.println("\n Welches Asset möchten Sie importieren? \n");
+		System.out.println("\n Welches Asset (Symbol) möchten Sie importieren? \n");
 		configString += scanner.next();
 		
 		System.out.println("\n Geben Sie den Namen der Tabelle an, in welchen die Daten gespeichert werden sollen: \n");
